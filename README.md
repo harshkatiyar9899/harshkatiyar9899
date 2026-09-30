@@ -1,3 +1,15 @@
+# 💫 Hi 👋, I'm Harsh katiyar
+
+Email Me 👉 ✉️ **harshkatiyar9899@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** PYTHON / SQL / DSA
+- 🌱 **I’m currently learning:** PYTHON / SQL / DSA
+- 📫 **How to reach me:** harshkatiyar9899@gmail.com
+  <!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harsh-katiyar-a3aa0943b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshkatiyar9899@gmail.com) 
