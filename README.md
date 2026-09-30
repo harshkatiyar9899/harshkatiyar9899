@@ -6,16 +6,16 @@ Email Me 👉 ✉️ **harshkatiyar9899@gmail.com** For Collaboration/Project or
 - 🌱 **I’m currently learning:** PYTHON / SQL / DSA
 - 📫 **How to reach me:** harshkatiyar9899@gmail.com
   <!-- Snake Game Repo View -->
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harsh-katiyar-a3aa0943b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshkatiyar9899@gmail.com) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=harshkatiyar9899&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=harshkatiyar9899&theme=tokyonight&hide_border=false)<br/>
